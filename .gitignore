@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Personal data — never commit
+data/
+*.db
+*.log
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
